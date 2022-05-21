@@ -5,7 +5,7 @@
 **A passionate Java developer**
 
 - 🔭 I’m currently Focusing on **Java**、**SpringBoot**
-- 🌱 I’m currently learning Vue、ES6
+- 🌱 I’m currently learning Vue3、ELK、K8s
 - ⚡ Interested in full stack.
 
 
