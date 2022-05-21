@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![:name](https://count.getloli.com/get/@:bfchengnuo)
+![:name](https://count.getloli.com/get/@:bfchengnuo?theme=rule34)
 
 **A passionate Java developer**
 
